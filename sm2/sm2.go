@@ -11,8 +11,8 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/ZZMarquis/gm/sm3"
-	"github.com/ZZMarquis/gm/util"
+	"gm/sm3"
+	"gm/util"
 )
 
 const (
